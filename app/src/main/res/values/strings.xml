@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalW2G124</string>
+    <string name="numbTxt">Roll your dice!</string>
+    <string name="rollTxt">Roll</string>
+</resources>
